@@ -280,8 +280,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "josesj@gmail.com"
-    RSS = true # 
+    Email = ""
+    RSS = false  
 
   #  Page global config
   [params.page]
